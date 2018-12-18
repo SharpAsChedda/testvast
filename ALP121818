@@ -1,0 +1,111 @@
+<VAST version="2.0">
+<Ad id="9615">
+<Wrapper>
+<AdSystem>Beeswax</AdSystem>
+<VASTAdTagURI>
+<![CDATA[
+https://vast.adsafeprotected.com/vast/fwjsvid/st/148668/31300260/skeleton.js?includeFlash=false&originalVast=https://traffick.jivox.com/jivox/serverAPIs/getCampaignById.php?api=vpaid&version=2.0&siteId=55bcf086c59b8b&campaignId=128351&ts_pId=b0xYb7&isDynamic=1&ap_DataSignal1=USA_[DMP]_CX3_DSK_EXP&noFlash=1&jvxVer=2&r=3081640109&
+]]>
+</VASTAdTagURI>
+<Impression>
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/imp/sx?sie=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggAigBYAF4j0uAAeMCkgECc3ioAQDCAQA=&wp=$MBR&fie=IAJKDEIIQWxwaG9uc29IAmoAcAKKAQA=
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://tr.alphonso.tv/ad/ord=3081640109?src=358111105&deviceid=&cid=1433&lid=9611&crid=9615&aid=1542405780443342.2032010778.5200.alphonso&domain=&site_name=&app_bundle=com.grindrapp.android&app_id=agltb3B1Yi1pbmNyDAsSA0FwcBjRiOYSDA&app_name=Grindr%20Android&lat=&long=&zip_code=&age=31&gender=M&platform_os=&platform_carrier=310-260&device_model=&device_make=&metro_code=&Inventory_Source=SPOTX
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://tps30.doubleverify.com/visit.jpg?ctx=3891363&cmp=DV071970&sid=Alphonso&plc=Alphonso_IQM_Video_IMG&advid=3819603&adsrv=0&dvtagver=6.1.img&tagformat=2&tagtype=video&DVP_PP_REP=1&DVP_IQM_ID=19&DVP_DV_TT=2&DVP_DV_CT=2&DVP_AL_CMP_ID=1433&DVP_AL_LINE_ID=9611&DVP_AL_SOURCE=SPOTX&DVPX_PP_IMP_ID=3081640109&DVP_PP_AUCTION_IP=MTcyLjU4LjI0LjEwMA==&DVP_PP_BUNDLE_ID=com.grindrapp.android&turl=&DVPX_PP_AUCTION_UA=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDcuMDsgU00tRzk1NVUgQnVpbGQvTlJEOTBNOyB3dikgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi80LjAgQ2hyb21lLzU5LjAuMzA3MS4xMjUgTW9iaWxlIFNhZmFyaS81MzcuMzY=&DVP_AL_SITE_ID=&DVP_AL_APP_ID=agltb3B1Yi1pbmNyDAsSA0FwcBjRiOYSDA
+]]>
+</Impression>
+<Creatives>
+<Creative>
+<Linear>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggAUCPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggAkCPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggA0CPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggBECPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggBUCPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggB0CPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggCECPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggBkCPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggCUCPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggCkCPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggC0CPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/act/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3ggDECPS0jjAlICc3hgAA==
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://tr.alphonso.tv/ad/ord=3081640109?cmp=358111105&complete=100&deviceid=&cid=1433&lid=9611&crid=9615&aid=1542405780443342.2032010778.5200.alphonso&domain=&site_name=&app_bundle=com.grindrapp.android&app_id=agltb3B1Yi1pbmNyDAsSA0FwcBjRiOYSDA&lat=&long=&zip_code=&age=31&gender=M&platform_os=&platform_carrier=310-260&device_model=&device_make=&metro_code=&Inventory_Source=SPOTX
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[
+https://us-east-1.event.prod.bidr.io/log/clk/sx?ai=ChIImoz4yAcQ0CgYzqGSpfXZ3gISEgoIYWxwaG9uc28QAxiZCyCLSxoCc3g4j0tA4wJIAVICc3hgAA==
+]]>
+</ClickTracking>
+<ClickThrough>
+<![CDATA[ http://www.espn.go.com/ ]]>
+</ClickThrough>
+</VideoClicks>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions/>
+</Wrapper>
+</Ad>
+</VAST>
